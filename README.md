@@ -2,7 +2,7 @@
 
 Interactive dashboard analyzing **314 responses** collected from Otoqi drivers in Italy 🇮🇹, France 🇫🇷, and Germany 🇩🇪.
 
-👉 **[Open the dashboard](https://your-username.github.io/your-repo-name/)** *(replace with your actual GitHub Pages URL)*
+👉 **[Open the dashboard](https://github.com/davidemiglietta/driver-survey-answers/)**
 
 ---
 
